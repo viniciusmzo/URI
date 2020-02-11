@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _1179
 {
@@ -71,8 +67,6 @@ namespace _1179
                         }
                     }
                 }
-
-
 
                 if (posImpar == 5) { posImpar = 0; txI = true; }
                 if (posPar == 5) { posPar = 0; txP = true; }
